@@ -45,9 +45,10 @@ def background():
 
 
 
-
 def handling_input(inp):
     print('Got {}'.format(inp))
+
+# the program starts here 
 
 print("Type q to exit!")
 
