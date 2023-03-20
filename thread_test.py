@@ -20,7 +20,6 @@ def background():
 
     with open('/home/pi/grafana_project/csv_test.csv', 'w') as file: 
 
-
         file.write(f"index,dt_string,data1,data2\n")
 
         x=0
