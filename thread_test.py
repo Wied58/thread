@@ -43,6 +43,7 @@ def background():
             sleep(1)
 
 # test comment
+# another test
 
 def handling_input(inp):
     print('Got {}'.format(inp))
